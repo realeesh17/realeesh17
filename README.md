@@ -1,6 +1,6 @@
 -  Hi, I’m @realeesh17
 -  I’m interested in Backend,Cybersecurity,Blockchain,Project management.
--  I’m currently learning 2nd year student of Computer engineering from Mumbai University.
+-  I’m currently learning 3rd year student of Computer engineering from Mumbai University.
 -  I’m looking to collaborate on Cummunity to be part of OPEN souce work place on GITHUB
 -  Fun fact: Its my NEW id thats why i don't know what to write. 
 
