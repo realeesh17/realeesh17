@@ -24,18 +24,6 @@
 - 🎯 Goal: land a **SOC Analyst / Cybersecurity Analyst** role
 - 🤝 Open to collaborating on open-source security projects and learning from the community
 
----
-
-## 💼 Experience
-
-**Defensive Cybersecurity Intern**, InLighnX Global Pvt. Ltd. *(Aug 2026 - Oct 2026)*
-- SOC log monitoring and alert triage
-- Built **Splunk** dashboards and wrote **SPL** queries
-- Analysed network traffic with **Wireshark**
-- Wrote **Sigma** detection rules mapped to **MITRE ATT&CK**
-- Produced incident documentation and reports
-
----
 
 ## 🧰 Skills & Tools
 
