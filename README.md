@@ -16,7 +16,7 @@
 
 ## 🛡️ About Me
 
-- 🎓 Final-year **B.E. Computer Science (IoT)** student, Mumbai University
+- 🎓 Final-year **B.E. Computer Science (Cybersecurity)** student, Mumbai University
 - 🔍 Focused on **SOC operations**: log monitoring, alert triage, detection engineering, and incident documentation
 - 🧪 Practicing daily on **LetsDefend**, **TryHackMe** and **Hack The Box**
 - 📚 Currently working through **IBM SOC Practices** and **CCNA**
